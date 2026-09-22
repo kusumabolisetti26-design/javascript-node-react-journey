@@ -26,3 +26,27 @@ console.log("my name is",stu);
 console.log("i am ",old,"age");
 console.log("I am studying",branch);
 console.log("My SGPA is",sgpa)
+
+
+let x=20;
+let y=6;
+let add=x+y;
+let sub=x-y;
+let mul=x*y;
+let div=x/y;
+let rem=x%y;
+let power=x**y;
+console.log("Addition:",add);
+console.log("Subtraction:",sub);
+console.log("MMultiplication:",mul);
+console.log("Division:",div);
+console.log("Remainder:",rem);
+console.log("Power:",power);
+
+
+let olds = 20;
+console.log(olds>18)
+
+let marks = 75;
+let attendance = 85;
+console.log(marks>=60&&attendance>=75)
